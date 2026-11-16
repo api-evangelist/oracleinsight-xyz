@@ -1,4 +1,4 @@
-# oracleinsight-xyz
+# Insight
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-oracleinsight-xyz is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://oracleinsight.xyz/
+Insight provides decision‑input integrity and risk intelligence services for AI agents and decentralized finance protocols. The platform offers tools to verify oracle evidence, assess risk, and integrate with on‑chain data sources. It includes an API, SDKs, and documentation for developers to build secure, data‑driven applications, with pricing plans and a focus on transparency and compliance.
+
+**Areas:** AI · Oracle · Risk-Intelligence · DeFi · Data-Integrity
+
+## Insight on APIs.io
+
+Everything profiled for Insight is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/oracleinsight-xyz/](https://apis.io/providers/oracleinsight-xyz/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Insight MCP API](https://apis.io/apis/oracleinsight-xyz/oracleinsight-xyz-mcp-api/) — The MCP API from Insight — 2 operation(s) for mcp.
+- [Insight Safety API](https://apis.io/apis/oracleinsight-xyz/oracleinsight-xyz-safety-api/) — The Safety API from Insight — 3 operation(s) for safety.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Insight Agentic Access](https://apis.io/agentic-access/oracleinsight-xyz/oracleinsight-xyz-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Insight API Rules](https://apis.io/rules/oracleinsight-xyz/oracleinsight-xyz-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Insight Authentication](https://apis.io/security/oracleinsight-xyz/oracleinsight-xyz-authentication/)
+- [Insight Domain Security](https://apis.io/security/oracleinsight-xyz/oracleinsight-xyz-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Insight Plans Pricing](https://apis.io/plans/oracleinsight-xyz/oracleinsight-xyz-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://oracleinsight.xyz/)
+- [Documentation](https://www.oracleinsight.xyz/docs)
+- [Getting started](https://www.oracleinsight.xyz/price-insight?stage=observe)
+- [API reference](https://www.oracleinsight.xyz/docs/api)
+- [Pricing](https://www.oracleinsight.xyz/pricing)
+- [Sign up](https://www.oracleinsight.xyz/register)
+- [Support](https://www.oracleinsight.xyz/contact)
+- [Terms of service](https://www.oracleinsight.xyz/terms)
+- [Privacy policy](https://www.oracleinsight.xyz/privacy)
+- [GitHub](https://github.com/imokokok/Insight)
+
+## API Evangelist rating
+
+**Kin Score 55.5** — strong · rubric 0.27.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 43.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 61.9 |
+| Access clarity | 73.2 |
+
+**Agent readiness 38.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/oracleinsight-xyz/](https://apis.io/providers/oracleinsight-xyz/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Insight: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/oracleinsight-xyz/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
